@@ -2,7 +2,7 @@
 The Monte Carlo simulations are used to model the probability of outcomes in a random process that cannot easily be predicted due to the intervention of random variables. This project introduced the Monte Carlo methods to model the 2020 Presidential Election.
 
 
-Poll Data Source Used in this project from: https://www.270towin.com/2020-polls-biden-trump/. The website summarized and averaged polls for the 2020 presidential election from different electoral states.
+Poll Data Source Used in this project can be accessed from: https://www.270towin.com/2020-polls-biden-trump/. The website summarized and averaged polls for the 2020 presidential election from different electoral states.
 
 
 Computer Software used in this project:
